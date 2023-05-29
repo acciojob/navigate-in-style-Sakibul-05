@@ -4,9 +4,16 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+.container{
+	background-color: rgb(211,211,211);
+	padding: 10px;
+}
 nav.nav-bar{
 	background-color: #D3D3D3;
 	padding: 10px;
+}
+ul{
+	display: flex;
 }
 nav ul li{
 	list-style: none;
